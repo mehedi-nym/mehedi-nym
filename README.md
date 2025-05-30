@@ -5,7 +5,7 @@
 - 💡 I love experimenting with new tech ideas and streamlining processes  
 - 💞️ I’m looking to collaborate on tech innovation projects and open-source tools  
 - 📫 How to reach me:  
-  - 📧 Email: mehedi.nym.dev@gmail.com  
+  - 📧 Email: mnym71@gmail.com  
   - 💼 LinkedIn: [linkedin.com/in/mehedi-nym](https://linkedin.com/in/mehedi-nym)  
   - 🌐 Portfolio: [mehedi-nym.github.io](https://mehedi-nym.github.io) 
 
