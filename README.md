@@ -7,7 +7,7 @@
 - 📫 How to reach me:  
   - 📧 Email: mnym71@gmail.com  
   - 💼 LinkedIn: [linkedin.com/in/mehedi-nym](https://linkedin.com/in/mehedi-nym)  
-  - 🌐 Portfolio: [mehedi-nym.github.io](https://mehedi-nym.github.io) 
+  - 🌐 Portfolio: [portfolio.mehedi-nym](https://portfolio-mehedi-nym.vercel.app/) 
 
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I can debug better with background music on 🎧
