@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mehedi Hasan Nayem (@mehedi-nym)<br>👀 I’m interested in web development, automation, and building smart digital tech solutions<br><br>🌱 I’m currently learning JavaScript and diving deeper into modern web technologies<br><br>💡 I love experimenting with new tech ideas and streamlining processes<br><br>💞️ I’m looking to collaborate on tech innovation projects and open-source tools<br><br>📫 How to reach me:<br><br>📧 Email: mnym71@gmail.com<br>💼 LinkedIn: linkedin.com/in/mehedi-nym<br>🌐 Portfolio: portfolio.mehedi-nym<br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: I can debug better with background music on 🎧
+👋 Hi, I’m Mehedi Hasan Nayem (@mehedi-nym)<br>👀 I’m interested in web development, automation, and building smart digital tech solutions<br><br>🌱 I’m currently learning JavaScript and diving deeper into modern web technologies<br><br>💡 I love experimenting with new tech ideas and streamlining processes<br><br>💞️ I’m looking to collaborate on tech innovation projects and open-source tools<br><br>📫 How to reach me:<br><br>📧 Email: mnym71@gmail.com<br>💼 LinkedIn: linkedin.com/in/mehedi-nym<br>🌐 Portfolio: https://www.mnym.me/<br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: I can debug better with background music on 🎧
 
 
 ## 🌐 Socials:
@@ -11,11 +11,5 @@
 ![](https://github-readme-stats.shion.dev/api?username=mehedi-nym&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=mehedi-nym&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mehedi-nym&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mehedi-nym&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://komarev.com/ghpvc/?username=mehedi-nym&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
